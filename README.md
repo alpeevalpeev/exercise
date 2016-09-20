@@ -1,2 +1,4 @@
 # exercise
 for class
+
+newthing
